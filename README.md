@@ -1,4 +1,6 @@
-# Project Management
+# Project Manager
+
+This app acts as a simple project manager. You can create and delete projects, and create and delete tasks pertaining to individual projects.
 
 ## How to run
 
